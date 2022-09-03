@@ -1,3 +1,5 @@
+# code by savir singh
+
 n = int(input())
 
 while True:
