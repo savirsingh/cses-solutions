@@ -22,6 +22,8 @@ int dc (int a) {
 }
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     cin >> n;
     memset(comb, 0, sizeof(comb));
     comb[0] = 1;
